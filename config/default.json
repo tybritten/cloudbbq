@@ -2,12 +2,12 @@
     "mqtt": {
         "username" : "USERNAME",
         "key":"API_KEY",
-        "protocol":"mqtts",
+        "protocol":"mqtt",
         "url":"url.com:1234",
         "topics":[
             "PROBE/1/TOPIC"
         ],
-        "probeMessagePerPublish":12
+        "probeMessagePerPublish":1
     },
     "notifications":{
         "googleAssistant":{
