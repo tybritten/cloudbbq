@@ -5,7 +5,8 @@
         "protocol":"mqtt",
         "url":"url.com:1234",
         "topics":[
-            "PROBE/1/TOPIC"
+            "ibbq/probe1",
+	        "ibbq/probe2"
         ],
         "probeMessagePerPublish":1
     },
